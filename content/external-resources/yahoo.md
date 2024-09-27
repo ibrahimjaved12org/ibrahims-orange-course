@@ -6,5 +6,5 @@ has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: yahoo
-uid: 9d3f3921-31a2-4487-8650-631ffafefe0a
+uid: 7941d237-dc07-4bd0-bad2-736827e2cabe
 ---
