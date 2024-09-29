@@ -25,11 +25,9 @@
   "department_numbers": [
     "1"
   ],
-  "extra_course_numbers": "",
+  "extra_course_numbers": "ibrahims-orange-course",
   "primary_course_number": "ibrahims-orange-course",
-  "learning_resource_types": [
-    "Activity Assignments"
-  ],
-  "site_uid": "92fc466c-a7ed-4db7-b7b4-89beca03ca3e",
+  "learning_resource_types": [],
+  "site_uid": "9f6be03a-d80c-4b72-91ec-669469fc638e",
   "site_short_id": "ibrahims-orange-course"
 }
