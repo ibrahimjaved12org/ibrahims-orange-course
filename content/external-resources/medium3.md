@@ -1,11 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: ocw.mit.edu
+external_url: medium.com
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: ocw
-uid: 936a052d-7e99-43a0-858b-eb690dc859fe
-wayback_url: https://web.archive.org/web/20241001113746/https://ocw.mit.edu/
+title: medium
+uid: aa8b1b4d-88b5-4b21-b355-469567b64cb8
 ---
