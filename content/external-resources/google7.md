@@ -7,5 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: google7
 uid: c9eeb0d4-ad45-4d50-aa8c-d35c407e756a
-wayback_url: https://web.archive.org/web/20241001135923/https://www.google.com/#researchs
+wayback_url: https://web.archive.org/web/20241001140824/https://www.google.com/
 ---

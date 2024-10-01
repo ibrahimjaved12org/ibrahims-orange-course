@@ -7,5 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: yahoo
 uid: 332026df-e8b7-4ea8-9b57-8112cbdb15a8
-wayback_url: https://web.archive.org/web/20241001125927/https://www.yahoo.com/
+wayback_url: https://web.archive.org/web/20241001141834/https://www.yahoo.com/
 ---

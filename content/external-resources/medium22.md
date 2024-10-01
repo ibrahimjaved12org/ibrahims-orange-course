@@ -7,4 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: medium2
 uid: aa8239f5-0b91-4764-9d0e-c63045da2f77
+wayback_url: https://web.archive.org/web/20241001140312/https://medium.com/
 ---
