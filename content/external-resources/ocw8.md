@@ -7,4 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: ocw8
 uid: 50dc4661-4696-4362-b39f-d6d0f8cfcfe5
+wayback_url: https://web.archive.org/web/20241001113746/https://ocw.mit.edu/
 ---

@@ -7,4 +7,5 @@ is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: ocw3
 uid: 69dcacde-3c19-4494-b43a-33490ea89c34
+wayback_url: https://web.archive.org/web/20241001113746/https://ocw.mit.edu/
 ---
