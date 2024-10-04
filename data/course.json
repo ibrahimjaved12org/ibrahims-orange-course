@@ -6,7 +6,7 @@
   ],
   "topics": [
     [
-      "Business"
+      "Energy"
     ]
   ],
   "legacy_uid": "",
@@ -21,13 +21,15 @@
   "course_title": "ibrahims-orange-course",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "ibrahims-orange-course",
+  "course_description": "**ibrahims-orange-course**\n\n***publish*****Publish**",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "ibrahims-orange-course",
-  "learning_resource_types": [],
-  "site_uid": "c0d33130-25d9-4a90-b3da-7b1a62b75e7d",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "6f913359-3786-4818-aa43-3b0955518a40",
   "site_short_id": "ibrahims-orange-course"
 }
